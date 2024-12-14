@@ -8,6 +8,7 @@ A growing list of tools and projects, added as I learn them! Expect:
 
 📚 Contents
 On the way mate !
+1. PowerBI - Data Visualization Tool For Business Needs
 
 
 🔥 Why Follow This Repo?
