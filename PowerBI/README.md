@@ -18,6 +18,6 @@ Chapter 3 : Tables and Matrix
                 - Introduction to Tables and Matrix , Creating a Table , Formatting of Style , Applying Conditional Formatting , Change of Aggregation in Tables
 
                 - Creating a Matrix , Applying Conditional Formatting in Matrix , Create Hierarchies in Matrix , Add Totals and Sub Totals in Matrix , How to change numbers formatting
-Chapter 4 :  
+Chapter 4 : 
 
     
