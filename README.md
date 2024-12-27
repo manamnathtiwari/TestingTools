@@ -9,7 +9,7 @@ A growing list of tools and projects, added as I learn them! Expect:
 📚 Contents
 On the way mate !
 1. PowerBI - Data Visualization Tool For Business Needs
-2. ARVR - Creative Blender and Unity Projects Focus on building Animations 
+2. ARVR - Creative Blender Projects which Focuses on building Animations 
 
 
 🔥 Why Follow This Repo?
@@ -29,6 +29,12 @@ Start Learning and Building! 🚀
 
 🌈 Let’s Build Together!
 Got ideas or want to add something cool? Open a PR or drop an issue!
+
+Disclaimer :
+
+
+This is all self paced learning so it might be a little slow so if anyone is referring this if you want something fast just ping me to my mail .
+
 
 Contact :
 Email: manamnathtiwari@gmail.com
