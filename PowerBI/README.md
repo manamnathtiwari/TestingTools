@@ -22,6 +22,11 @@ Chapter 4 :  Slicers
 
                 - Creating a Slicer , Creating Text Slicer , Formatting a Text Slicer , Creating a Date Slicer , Formatting a Date Slicers , Creating a Number SLicer
 
+Chapter 5 : Charts Visualization Tool
+
+                - Creating a Waterfall Chart , Creating a Gauge Chart , Creating a Line Chart , Creating a Line Chart Drill with Slicer
+                Area Chart , Stacked Area Chart , Line and Stacked Column Chart , Line and CLustered Column Chart , Scatter Plot(with a pinch of Animation ) , Tree Map
+
                 
 
     
