@@ -27,6 +27,7 @@ Chapter 5 : Charts Visualization Tool
                 - Creating a Waterfall Chart , Creating a Gauge Chart , Creating a Line Chart , Creating a Line Chart Drill with Slicer
                 Area Chart , Stacked Area Chart , Line and Stacked Column Chart , Line and CLustered Column Chart , Scatter Plot(with a pinch of Animation ) , Tree Map
 
-                
+Chapter 6 and 7 : Cards and Filters
 
-    
+                - Creating a number card , Creating a date card , Relative date filters , Creating a text card , Formatting a card 
+                Multi , Row Card , Filter on Visuals , Filter on this page , Filter on all pages , Use Drill Through
