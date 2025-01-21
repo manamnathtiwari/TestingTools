@@ -33,4 +33,5 @@ Chapter 6 and 7 : Cards and Filters
                 Multi , Row Card , Filter on Visuals , Filter on this page , Filter on all pages , Use Drill Through
 
 Chapter 8 : Insert and Action Functions
+
                 - Insert Image , Text , Shape , Button , Web URL Action , Page Navigation , Bookmark Action , Use Drill through Action 
