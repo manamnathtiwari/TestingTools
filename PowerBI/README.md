@@ -35,3 +35,10 @@ Chapter 6 and 7 : Cards and Filters
 Chapter 8 : Insert and Action Functions
 
                 - Insert Image , Text , Shape , Button , Web URL Action , Page Navigation , Bookmark Action , Use Drill through Action 
+
+Chapter 9 : Advanced Charts 
+
+                - Creating a Scroller , Creating a Word Cloud , Creating Infographics ,Drill Down Donut Chart , Drill Down Water Fall Chart,
+                Play Axis Slicer , Animated Bar Chart , Sunburst Chart , Sankey Chart , Calendar and Timeline Slicer 
+
+                
