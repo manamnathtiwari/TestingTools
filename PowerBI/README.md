@@ -45,3 +45,5 @@ Chapter 10 : KPI and Other Functions
 
                 - Introduction to Advanced Functions , KPI tools Visualization , MS Power BI UPdates , Key Influencers , Decomposition Tree
                 Python and R Scripting in POwer Bi (only Introduction) , Third Part Extension tools (only  Introduction)
+
+Project Done : Amazon Super Global Storage 
