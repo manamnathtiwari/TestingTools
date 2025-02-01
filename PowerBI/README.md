@@ -41,4 +41,7 @@ Chapter 9 : Advanced Charts
                 - Creating a Scroller , Creating a Word Cloud , Creating Infographics ,Drill Down Donut Chart , Drill Down Water Fall Chart,
                 Play Axis Slicer , Animated Bar Chart , Sunburst Chart , Sankey Chart , Calendar and Timeline Slicer 
 
-                
+Chapter 10 : KPI and Other Functions 
+
+                - Introduction to Advanced Functions , KPI tools Visualization , MS Power BI UPdates , Key Influencers , Decomposition Tree
+                Python and R Scripting in POwer Bi (only Introduction) , Third Part Extension tools (only  Introduction)
