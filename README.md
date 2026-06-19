@@ -37,4 +37,5 @@ This is all self paced learning so it might be a little slow so if anyone is ref
 
 
 Contact :
+linkednin :
 Email: manamnathtiwari@gmail.com
