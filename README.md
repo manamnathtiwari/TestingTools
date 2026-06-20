@@ -31,7 +31,6 @@ Start Learning and Building! 🚀
 Got ideas or want to add something cool? Open a PR or drop an issue!
 
 Disclaimer :
-Lol nothing 
 
 This is all self paced learning so it might be a little slow so if anyone is referring this if you want something fast just ping me to my mail .
 
